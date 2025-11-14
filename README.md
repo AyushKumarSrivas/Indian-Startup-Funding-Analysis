@@ -77,7 +77,7 @@ EDA was conducted to identify trends, patterns, and relationships in the startup
 * **Sequoia Capital, Tiger Global, and Accel Partners** are the most active investors.
 * Long-term trends show technology and innovative sectors receiving the highest average funding.
 * COVID-19 (2020) caused a dip, but funding rebounded in 2021.
-* Top startups like **Byju's, OYO, and Paytm** dominate total funding charts.
+* Top startups like **Flipkart, OLA, and Paytm** dominate total funding charts.
 
 ---
 
