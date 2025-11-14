@@ -116,6 +116,38 @@ Parsed the date column to extract the funding year for trend analysis.
 
 ---
 
+## 💻 How to Run This Project
+
+1. **Clone the repository:**
+
+```bash
+git clone <your-repo-link>
+```
+
+2. **Navigate to the project folder:**
+
+```bash
+cd Indian_Startup_Funding_Analysis
+```
+
+3. **Open Jupyter Notebook:**
+
+```bash
+jupyter notebook
+```
+
+4. **Install required libraries (if not already installed):**
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+5. **Load the dataset:** Make sure `startup_funding.csv` is in the project folder.
+
+6. **Run the notebook block by block** to see data cleaning, analysis, and visualizations.
+
+---
+
 ## 💡 Outcome
 
 This project demonstrates strong skills in **data cleaning, EDA, visualization, and deriving business insights**. It is an excellent portfolio project for **Data Analyst, Business Intelligence, and Investment Analyst roles**, showing practical application of Python and data visualization in real-world startup funding analysis.
