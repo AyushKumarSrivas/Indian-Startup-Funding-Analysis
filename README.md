@@ -181,7 +181,7 @@ Indian-Startup-Funding-Analysis
 
 **Ayush Kumar Srivastav**
 
-**Data Analytics Professional**
+**Data Analytics**
 
 **Tech Stack:** Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Power BI • Excel • Business Intelligence
 
